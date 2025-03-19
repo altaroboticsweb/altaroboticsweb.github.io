@@ -22,7 +22,10 @@ I hope you enjoy learning about the different things that I have collected here 
 ## Getting started
 
 {: .note }
-To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
+This webpage is still a work in progress :3
+
+You can go through an see what notes I've made by selecting the category on sidebar, and if you would like to download the notes yourself you can scroll down to the bottom and get both a html and markdown version of the page, which I find very useful as it allows you to put it right into your [Obsidian](https://obsidian.md) note-taking app
+
 
 ### License
 
@@ -48,3 +51,5 @@ I would love to have some help adding new guides and notes, so if you yourself w
 
 
 ## Table of contents
+
+[About Me]
