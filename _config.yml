@@ -117,7 +117,7 @@ aux_links:
 
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
+aux_links_new_tab: false
 
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
@@ -129,8 +129,6 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: My github
-    url: https://github.com/pizza2d1
   - title: THE TRUTH
     url: https://birdsarentreal.com
 
