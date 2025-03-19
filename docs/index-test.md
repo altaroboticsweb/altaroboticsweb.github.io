@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Markdown kitchen sink
 nav_order: 99
 ---
@@ -324,4 +324,4 @@ This is content inside a `<details>` dropdown.
 - [ ] Oranges
 - [ ] Milk
 
-</details>
+</details> -->

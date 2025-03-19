@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Customization
 nav_order: 6
 ---
@@ -269,7 +269,7 @@ Here is a simplified code example of what it looks like:
 {% raw %}
 
 ```liquid
-<!-- a simplified version of _layouts/default.html -->
+<!-- a simplified version of _layouts/default.html
 <html>
 {% include head.html %}
 <body>
