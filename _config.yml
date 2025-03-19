@@ -112,9 +112,7 @@ heading_anchors: true
 aux_links:
   "My Github":
     - "https://github.com/pizza2d1/"
-
-back_button:
-  "BACK":
+  "Back":
     - "https://pizza2d1.github.io"
 
 # Makes Aux links open in a new tab. Default is false
