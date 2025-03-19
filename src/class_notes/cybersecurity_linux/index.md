@@ -1,4 +1,4 @@
 ---
 title: Cybersecurity Linux
-Parent: Notes
+parent: Notes
 ---
