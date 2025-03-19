@@ -12,7 +12,7 @@ I hope you enjoy learning about the different things that I have collected here 
 {: .fs-6 .fw-300 }
 
 [Table of Contents](#table-of-contents){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Check out my other projects!](https://github.com/pizza2d1){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Check out my other projects!](https://github.com/pizza2d1){: .btn .fs-5 .mb-4 .mb-md-0 .btn-green }
 
 ---
 
