@@ -2,14 +2,13 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "A webpage dedicated to guides and notes made by Pizza2d1"
 permalink: /
 ---
-
-# Focus on writing good documentation
+# Welcome!
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+I hope you enjoy learning about the different things that I have collected here to share with people!
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
