@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Search
 nav_order: 7
 ---
@@ -177,4 +177,4 @@ This example adds front matter `usage` and `examples` fields to the search index
 ```javascript
 const content_to_merge = [docs[i].content, docs[i].myusage, docs[i].myexamples];
 docs[i].content = content_to_merge.join(' ');
-```
+``` -->
