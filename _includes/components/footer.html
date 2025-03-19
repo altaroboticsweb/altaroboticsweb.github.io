@@ -30,5 +30,8 @@
         {% endif %}
       </div>
     {% endif %}
+    {% if site.allow_download %}
+      <p><a href="{{ request.path }}" download>Markdown Download</a></p>
+    {% endif %}
   </footer>
 {% endif %}
