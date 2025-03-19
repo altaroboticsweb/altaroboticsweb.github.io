@@ -52,4 +52,4 @@ I would love to have some help adding new guides and notes, so if you yourself w
 
 ## Table of contents
 
-[About Me]
+### *[About Me]({% link aboutme.md %})**
