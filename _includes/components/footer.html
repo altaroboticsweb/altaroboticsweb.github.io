@@ -30,8 +30,11 @@
         {% endif %}
       </div>
     {% endif %}
-    {% if site.allow_download %}
-      <p><a href="{{ request.get_full_path }}/.md" download>Markdown Download</a></p>
+    {% if site.allow_markdown_download %}
+      <p><a href="{{ request.get_full_path }}" download>Markdown Download</a></p>
+    {% endif %}
+    {% if site.allow_html_download %}
+      <p><a href="{{ request.get_full_path }}" download>HTML Download (a bit buggy)</a></p>
     {% endif %}
   </footer>
 {% endif %}
