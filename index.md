@@ -53,4 +53,4 @@ I would love to have some help adding new guides and notes, so if you yourself w
 ## Table of contents
 
 ### - **[About Me]({% link aboutme.md %})**
-### - **[Command Notes]({% link programming.md %})**
+### - **[Command Notes]({% link src/programming.md %})**
