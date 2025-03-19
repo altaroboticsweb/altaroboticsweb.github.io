@@ -30,8 +30,9 @@
         {% endif %}
       </div>
     {% endif %}
+    {% assign directory = {{ request.get_full_path }} %}
     {% if site.allow_markdown_download %}
-      <p><a href='{{ {{ request.get_full_path }} | replace: ".html", ".md"}}' download>Markdown Download</a></p>
+      <p><a href="{{ directory | append: .md}}" download>Markdown Download</a></p>
     {% endif %}
     {% if site.allow_html_download %}
       <p><a href="{{ request.get_full_path }}" download>HTML Download (a bit buggy)</a></p>
