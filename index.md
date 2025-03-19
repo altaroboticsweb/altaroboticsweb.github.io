@@ -53,19 +53,22 @@ Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](htt
 ### License
 
 If you would like to make a copy of this webpage for your own use, I recommend using the [official just-the-docs] template which includesa valid MIT license, but if you would like to use mine that is totally, and completely fine (and would make me so happy)
-#### [My license[(https://github.com/pizza2d1/pizza2d1.github.io/tree/main/LICENSE.txt).
+#### [My license](https://github.com/pizza2d1/pizza2d1.github.io/tree/main/LICENSE.txt).
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
+I would love to have some help adding new guides and notes, so if you yourself would like to add some, you can message me on [Discord](https://discordapp.com/users/714918826831118436), (Just make sure to tell me who you are first)
 
 
-### Code of Conduct
+### Contact me!
+[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png){: width="20" }](https://www.linkedin.com/in/pizza2d1/)
+[LinkedIn](https://www.linkedin.com/in/pizza2d1/)
 
-Just the Docs is committed to fostering a welcoming community.
+[![Discord Logo](https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg){: width="20" }](https://discordapp.com/users/714918826831118436)
+[Discord](https://discordapp.com/users/714918826831118436)
 
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+[![Github Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg){: width="20" }](https://github.com/pizza2d1)
+[Github](https://github.com/pizza2d1)
 
 ----
 
