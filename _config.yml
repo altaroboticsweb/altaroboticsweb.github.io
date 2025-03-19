@@ -110,10 +110,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
+  "HOMEPAGE":
+    - "https://pizza2d1.github.io"
   "My Github":
     - "https://github.com/pizza2d1/"
-  "Back":
-    - "https://pizza2d1.github.io"
+
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true

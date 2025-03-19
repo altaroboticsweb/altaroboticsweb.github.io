@@ -1,6 +1,7 @@
 ---
 title: Markdown kitchen sink
 nav_order: 99
+permalink: fag/faggot
 ---
 
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
