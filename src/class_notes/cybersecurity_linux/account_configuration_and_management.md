@@ -1,3 +1,9 @@
+---
+title: Account Configuration and Management
+parent: Cybersecurity Linux
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Linux Lesson 2.2.2
 ___
 ### Account Creation and Configuration

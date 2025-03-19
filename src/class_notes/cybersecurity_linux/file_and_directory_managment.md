@@ -1,3 +1,9 @@
+---
+title: File and Directory Management
+parent: Cybersecurity Linux
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Linux Lesson 1.2.5
 ___
 Users will learn to navigate and manage the files  

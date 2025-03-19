@@ -1,3 +1,9 @@
+---
+title: Script Utilities and Variables
+parent: Cybersecurity Linux
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Linux Lesson 3.1.3
 ___
 ### Common Script Utilities  

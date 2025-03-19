@@ -1,3 +1,9 @@
+---
+title: Compression and Archiving
+parent: Cybersecurity Linux
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Linux Lesson 1.2.2
 ___
 ### File Compressing and Archiving  

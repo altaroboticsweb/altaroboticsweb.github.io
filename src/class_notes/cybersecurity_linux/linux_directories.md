@@ -1,3 +1,9 @@
+---
+title: Linux Directories
+parent: Cybersecurity Linux
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Linux Lesson 1.1.1
 ___
 ## <span style="color:rgb(255, 0, 0)">/boot</span>  (boot)
