@@ -17,7 +17,7 @@ I hope you enjoy learning about the different things that I have collected here 
 ---
 
 {: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+> This was made in a very scrappy manner and may have some issues with it. If you see any, please help me and [make a issue notice](https://github.com/Pizza2d1/pizza2d1.github.io/issues/new) so that I can fix it. Thank you!
 
 Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
 
