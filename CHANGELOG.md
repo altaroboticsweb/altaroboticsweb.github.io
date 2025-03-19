@@ -1,4 +1,4 @@
----
+<!-- ---
 title: CHANGELOG
 layout: default
 ---
@@ -1870,4 +1870,4 @@ Major updates:
 - Pulls footer to bottom of the page on mobile (not hidden in nav)
 
 Minor updates:
-- Cleans up h1 typography spacing
+- Cleans up h1 typography spacing -->
