@@ -50,7 +50,7 @@ I would love to have some help adding new guides and notes, so if you yourself w
 ----
 
 
-## Table of contents
+## <u>Table of contents</u>
 
 ### - **[About Me]({% link src/aboutme.md %})**
 ### - **[Notes]({% link src/notes/index.md %})**
