@@ -168,7 +168,7 @@ callouts:
     color: yellow
   important:
     title: Important
-    color: light blue
+    color: blue
   new:
     title: New
     color: green
