@@ -1,3 +1,9 @@
+---
+title: Security Awareness
+parent: CyberForensics 
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Forensics Lesson 5.6.2
 ___
 ### Anomalous Behavior Recognition  

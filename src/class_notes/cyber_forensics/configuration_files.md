@@ -1,3 +1,9 @@
+---
+title: Configuration Files
+parent: CyberForensics 
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Linux Lesson 1.7.1
 ___
 ## Updating Configuration Files

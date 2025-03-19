@@ -1,3 +1,9 @@
+---
+title: Watering Hole and Typosquatting Attacks
+parent: CyberForensics 
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Forensics Lesson 2.2.5
 ___
 ## Watering Hole Attacks  

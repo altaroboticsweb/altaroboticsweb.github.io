@@ -1,3 +1,9 @@
+---
+title: Trojans, Backdoors, and RATs
+parent: CyberForensics 
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Forensics Lesson 2.4.3
 ___
 ### <span style="color:rgb(255, 0, 0)">Trojans</span>  

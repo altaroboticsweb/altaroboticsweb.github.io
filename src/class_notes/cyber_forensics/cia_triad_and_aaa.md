@@ -1,3 +1,9 @@
+---
+title: Dictionary Attacks
+parent: CyberForensics 
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Forensics Lesson 1.2.1
 ___
 ### Define the CIA Triad and explain why it is important in information security.

@@ -1,3 +1,9 @@
+---
+title: Dictionary Attacks
+parent: CyberForensics 
+layout: minimal
+grand_parent: Notes
+---
 Cybersecurity Forensics Lesson 2.4.14
 ___
   

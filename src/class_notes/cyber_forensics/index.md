@@ -1,3 +1,9 @@
+---
+title: CyberForensics
+layout: minimal
+parent: Notes
+---
+
 ## Unit 1
 - ### [[CIA Triad and AAA|1.2.1: CIA Triad and AAA]]
 ## Unit 2
