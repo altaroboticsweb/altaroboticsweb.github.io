@@ -11,7 +11,7 @@ permalink: /
 I hope you enjoy learning about the different things that I have collected here to share with people!
 {: .fs-6 .fw-300 }
 
-[Table of Contents](#Table of contents){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Table of Contents](#table-of-contents){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Check out my other projects!](https://github.com/pizza2d1){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -77,11 +77,8 @@ Just the Docs is committed to fostering a welcoming community.
 
 ----
 
-[^1]: The [source file for this page] uses all three markup languages.
 
-[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
+<!-- [Jekyll]: https://jekyllrb.com
 [Markdown]: https://daringfireball.net/projects/markdown/
 [Liquid]: https://github.com/Shopify/liquid/wiki
 [Front matter]: https://jekyllrb.com/docs/front-matter/
@@ -95,7 +92,7 @@ Just the Docs is committed to fostering a welcoming community.
 [Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [customize]: {% link docs/customization.md %}
-[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate -->
 
 
 ## Table of contents
