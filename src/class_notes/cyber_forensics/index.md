@@ -26,9 +26,9 @@ has_toc: false
 2.4.6:  {% link src/class_notes/cyber_forensics/logic_bombs_and_rootkits.md %}
 2.4.10: {% link src/class_notes/cyber_forensics/dos_and_ddos_attacks.md %}
 ## Unit 4
-4.1.3:  {% link mobile_solutions.md %}
+<!-- 4.1.3:  {% link mobile_solutions.md %}
 4.1.4:  {% link application_security.md %}
-4.5.2:  {% link os_&_monitoring.md %}
+4.5.2:  {% link os_&_monitoring.md %} -->
 ## Unit 5
 5.6.2:  security_awareness
 
