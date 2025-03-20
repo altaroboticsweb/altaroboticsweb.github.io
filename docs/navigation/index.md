@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Navigation
 nav_order: 5
 ---
@@ -13,4 +13,4 @@ The default page layout supports various navigation features:
 * optional lists of links to **child pages** (so-called 'tables of contents'); and
 * section heading links for **in-page navigation**, with an optional **back-to-top** link.
 
-See the following pages for how to specify these features, with illustrative examples.
+See the following pages for how to specify these features, with illustrative examples. -->

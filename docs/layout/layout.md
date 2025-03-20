@@ -1,13 +1,13 @@
----
+<!-- ---
 title: Layout
 layout: default
-nav_order: 4.5
+nav_order: 5.5
 ---
 
 # Layout
 
 You specify the layout for a page in its [front matter]. Just the Docs has a `default` layout with a sidebar, used for almost all pages in the theme docs, and a `minimal` layout that omits the sidebar.
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 ## The layout concept
 
@@ -49,4 +49,4 @@ Just the Docs has further layouts: `about`, `home`, `page`, and `post`. Currentl
 [front matter]: https://jekyllrb.com/docs/front-matter/ "Jekyll docs about front matter"
 [Jekyll docs page about layouts]: https://jekyllrb.com/docs/layouts/ "Jekyll docs about layouts"
 [Jekyll's front matter defaults]: https://jekyllrb.com/docs/configuration/front-matter-defaults/ "Jekyll docs about front matter defaults"
-[Jekyll docs about inheritance]: https://jekyllrb.com/docs/layouts/#inheritance "Jekyll docs about inheritance"
+[Jekyll docs about inheritance]: https://jekyllrb.com/docs/layouts/#inheritance "Jekyll docs about inheritance" -->
