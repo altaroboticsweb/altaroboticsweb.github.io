@@ -1,4 +1,9 @@
-sources: [ask Ubuntu](<https://askubuntu.com/questions/68175/how-to-create-script-with-auto-complete>) (parameters) and [stackoverflow](<https://stackoverflow.com/questions/44441249/how-to-autocomplete-a-bash-commandline-with-file-paths>) (path completion)
+---
+title: Linux Command Auto-completion
+parent: Guides
+---
+___
+sources: [ask Ubuntu](https://askubuntu.com/questions/68175/how-to-create-script-with-auto-complete) (parameters) and [stackoverflow](https://stackoverflow.com/questions/44441249/how-to-autocomplete-a-bash-commandline-with-file-paths) (path completion)
 ___
 ## Use:
 A way for my custom commands to have their parameters/arguments be auto-completed rather than having to type out the entire word, plus it can be used to show the different options that are available
