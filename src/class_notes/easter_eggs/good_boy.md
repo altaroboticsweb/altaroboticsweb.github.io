@@ -1,6 +1,6 @@
 ---
 title: Good Boy
-perma-link: /good_boy/
+permalink: /good_boy/
 nav_exclude: true
 ---
 
