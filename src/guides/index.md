@@ -3,7 +3,7 @@ title: Guides
 nav_order: 3
 ---
 
-# Notes
+# Guides 
 {: .no_toc }
 
 I will add some guides later, but for now I am still trying to figure out how to put together other parts of the website
