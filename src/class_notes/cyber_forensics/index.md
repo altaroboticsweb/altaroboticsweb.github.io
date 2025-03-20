@@ -19,7 +19,7 @@ has_toc: false
 ### 2.4.14: [Password Attacks]({% link src/class_notes/cyber_forensics/password_attacks.md %})
 #### - [Brute Force Attacks]({% link src/class_notes/cyber_forensics/brute_force_attacks.md %})
 #### - [Rainbow Tables]({% link src/class_notes/cyber_forensics/rainbow_tables.md %})
-#### - [Dictionary Attcaks]({% link src/class_notes/cyber_forensics/dictionary_attacks.md %})
+#### - [Dictionary Attacks]({% link src/class_notes/cyber_forensics/dictionary_attacks.md %})
 ### 2.4.2:  [Ransomware]({% link src/class_notes/cyber_forensics/ransomware.md %})
 ### 2.4.3:  [Trojans, Backdoors, and Rats]({% link src/class_notes/cyber_forensics/trojans_backdoors_and_rats.md %})
 ### 2.4.5:  [Keyloggers]({% link src/class_notes/cyber_forensics/keyloggers.md %})
@@ -35,6 +35,6 @@ has_toc: false
 # Chronologically Ordered Notes:
 W.I.P.
 
-# config files
+<!-- # config files
 # app vuln
-# security awareness
+# security awareness -->
