@@ -129,8 +129,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: THE TRUTH
-    url: https://birdsarentreal.com
+  - title: King Terry the Terrible
+    url: https://en.wikipedia.org/wiki/Terry_A._Davis
 
 # Show navigation error report
 nav_error_report: true # default is false/nil.

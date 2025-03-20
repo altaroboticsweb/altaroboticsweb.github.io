@@ -2,7 +2,8 @@
 title: Good Boy
 permalink: /good_boy/
 nav_exclude: true
+search_enabled: false
 ---
 
-![Astolfo](assets/images/astolfo.jpg)
+#### Good job finding me, just a quick reminder that YOU are worth it <3
 ![](../../assets/images/astolfo.jpg)
