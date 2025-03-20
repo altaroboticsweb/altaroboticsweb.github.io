@@ -8,7 +8,7 @@ has_toc: false
 1.2.1:_cia_triad_and_aaa
 1.2.3:_physical_security
 ## Unit 2
-2.1.1:  {% link src/class_notes/cyber_forensics/threat_actors.md %}
+<!-- 2.1.1:  {% link src/class_notes/cyber_forensics/threat_actors.md %}
 2.2.1:  {% link src/class_notes/cyber_forensics/common_attack_surfaces.md %}
 2.2.2:  {% link src/class_notes/cyber_forensics/principles_of_social_engineering.md %}
 2.2.3:  {% link src/class_notes/cyber_forensics/phishing_and_spam.md %}
@@ -24,7 +24,7 @@ has_toc: false
 2.4.3:  {% link src/class_notes/cyber_forensics/trojans_backdoors_and_rats.md %}
 2.4.5:  {% link src/class_notes/cyber_forensics/keyloggers.md %}
 2.4.6:  {% link src/class_notes/cyber_forensics/logic_bombs_and_rootkits.md %}
-2.4.10: {% link src/class_notes/cyber_forensics/dos_and_ddos_attacks.md %}
+2.4.10: {% link src/class_notes/cyber_forensics/dos_and_ddos_attacks.md %} -->
 ## Unit 4
 <!-- 4.1.3:  {% link mobile_solutions.md %}
 4.1.4:  {% link application_security.md %}
