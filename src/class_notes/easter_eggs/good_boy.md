@@ -5,3 +5,4 @@ nav_exclude: true
 ---
 
 ![Astolfo](assets/images/astolfo.jpg)
+![](../../assets/images/astolfo.jpg)
