@@ -2,6 +2,7 @@
 title: Linux Command Auto-completion
 parent: Guides
 ---
+# Linux Command Auto-completion
 ___
 sources: [ask Ubuntu](https://askubuntu.com/questions/68175/how-to-create-script-with-auto-complete) (parameters) and [stackoverflow](https://stackoverflow.com/questions/44441249/how-to-autocomplete-a-bash-commandline-with-file-paths) (path completion)
 ___
@@ -27,17 +28,21 @@ _foo() {
 ## `foo` <tab> <tab> would show autocomplete above wordlist
 complete -F _foo foo
 ```
-###### (You place this in the /etc/bash_completion.d/ directory)
-Or if you don't want to lose where it is by putting it in that obscure directory, you can source in in your .bashrc by adding this line:
+{ .new-title }
+> Note
+>
+> (You place this in the /etc/bash_completion.d/ directory)
+
+Or if you don't want to lose where it is by putting it in that obscure directory, you can temporarily source in in your .bashrc by adding this line:
 ```bash
 source /path/to/your/autocomplete.sh
 ```
 ___
-Or you can make one automatically with my `command_autocomp_maker.sh` custom command that I made so that I can easily transfer over my commands without there being an annoying bridge of config between them and since they are pretty simple themselves
+Or you can make one automatically with my `command_autocomp_maker.sh` custom command that I made so that I can easily transfer over my commands without there being an annoying bridge of config between them and since they are pretty simple themselves, link [here](https://github.com/pizza2d1/custom_commands)
 ## Complex options + file paths
 source: [stack overflow](<https://stackoverflow.com/questions/44441249/how-to-autocomplete-a-bash-commandline-with-file-paths>)
 
-For commands that are more specific on where you can have options (`--like_this`) and paths, e.g you can only use path auto-completion after adding the `--install` parameter
+For commands that are more specific, you can add options for parameters to include `/path/` completion, such as: `command1 --install /path/to/file` where you can set it to only have the `--install` parameter include `/path/` completion.
 ```bash
 __command_name_autocomplete()
 {
@@ -87,6 +92,3 @@ __command_name_autocomplete()
 
 complete -o filenames -F __command_name_autocomplete command_name
 ```
-
-
-#commands/source #commands/complete
