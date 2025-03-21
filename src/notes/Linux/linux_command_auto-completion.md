@@ -2,8 +2,9 @@
 title: "Linux command auto-completion"
 parent: Linux
 ---
-sources: [ask Ubuntu](<https://askubuntu.com/questions/68175/how-to-create-script-with-auto-complete>) (parameters) and [stackoverflow](<https://stackoverflow.com/questions/44441249/how-to-autocomplete-a-bash-commandline-with-file-paths>) (path completion)
+# Linux Auto-completion
 ___
+sources: [ask Ubuntu](<https://askubuntu.com/questions/68175/how-to-create-script-with-auto-complete>) (parameters) and [stackoverflow](<https://stackoverflow.com/questions/44441249/how-to-autocomplete-a-bash-commandline-with-file-paths>) (path completion)
 ## Use:
 A way for my custom commands to have their parameters/arguments be auto-completed rather than having to type out the entire word, plus it can be used to show the different options that are available
 ## Simple options
@@ -86,6 +87,3 @@ __command_name_autocomplete()
 
 complete -o filenames -F __command_name_autocomplete command_name
 ```
-
-
-#commands/source #commands/complete

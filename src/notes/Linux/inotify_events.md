@@ -2,7 +2,8 @@
 title: "inotify events"
 parent: Linux
 ---
-
+# inotify command events
+___
 ## OPEN
 A watched file or a file within a watched directory was opened.
 
@@ -47,7 +48,3 @@ A  watched  file  or directory was deleted.  After this event the file or direct
 
 ## UNMOUNT
 The filesystem on which a watched file or directory resides was unmounted.  After this event the file or directory is no longer being watched.  Note that this  event can occur even if it is not explicitly being listened to.
-
-
-
-#inotify

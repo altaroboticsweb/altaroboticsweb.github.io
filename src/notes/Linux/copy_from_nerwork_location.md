@@ -1,8 +1,11 @@
 ---
-title: "Copy from NAS"
+title: "Copy from Network Location"
 parent: Linux
 ---
+
+# Copy from Network Location
 source: [Unix and Linux](<https://unix.stackexchange.com/questions/106480/how-to-copy-files-from-one-machine-to-another-using-ssh>)
+
 ___
 Syntax:
 ```
@@ -24,8 +27,3 @@ Example:
 scp pizza2d1@192.168.0.77:/home/pizza2d1/ObbyBackup /home/pizza2d1/
 ```
 Will copy the ObbyBackup file from the NAS home directory to my home directory
-
-
-
-
-#commands/scp

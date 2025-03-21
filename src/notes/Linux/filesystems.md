@@ -2,6 +2,8 @@
 title: "Filesystems"
 parent: Linux
 ---
+# Filesystems
+___
 If you must extract and isolate additional storage from `sda` without the risk of data loss due to shrinking the primary drive which is never advised, then a safer approach would be to use `fallocate` to create a loop device.
 
 `fallocate` is great for creating `swap` on systems but can also be used to great effect when partitioning is not an option.
@@ -51,8 +53,3 @@ losetup
 NAME       SIZELIMIT OFFSET AUTOCLEAR RO BACK-FILE
 /dev/loop0         0      0         1  0 /path/TO/NewDrive
 ```
-
-
-
-
-#commands/mkdir #commands/fallocate #commands/mkfs #commands/mount #commands/lsblk #commands/losetup

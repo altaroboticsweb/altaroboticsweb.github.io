@@ -2,8 +2,9 @@
 title: "Making a linux logical volume"
 parent: Linux
 ---
-[Source](<https://medium.com/@yhakimi/lvm-how-to-create-and-extend-a-logical-volume-in-linux-9744f27eacfe>)
+# Making a Linux Logical Volume
 ___
+[Source](<https://medium.com/@yhakimi/lvm-how-to-create-and-extend-a-logical-volume-in-linux-9744f27eacfe>)
 # Start:
 Make sure that your disk has a clean partition that you are able to convert into a usable disk, aka allow the LVM (logical volume manager) to use your storage.
 
@@ -149,6 +150,3 @@ resize2fs /dev/vg-data/lv-data
 This will try and resize the file-system to the new size of your logical volume, assuming you added to it.
 
 # End
-
-
-#commands/fdisk #commands/umount #commands/mount #commands/pvcreate #commands/vgcreate #commands/lvcreate #commands/resize2fs

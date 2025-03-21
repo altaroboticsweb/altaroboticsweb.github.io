@@ -2,6 +2,8 @@
 title: "Flashing drives"
 parent: Linux
 ---
+# Flashing Drives
+___
 ###### Create a compressed image file with a working image file
 
 ```bash
@@ -20,8 +22,3 @@ For flashing a sd card to the roborio
 ```bash
 gunzip -c /mnt/mydrive/img.gz > /dev/sda
 ```
-
-
-
-
-#commands/dd #commands/gzip

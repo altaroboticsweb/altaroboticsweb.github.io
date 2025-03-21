@@ -2,6 +2,8 @@
 title: "Ethernet issues"
 parent: Linux
 ---
+# Ethernet Issues
+___
 If the ethernet device shows as "unavailable" when using this command:
 
 ```bash
@@ -13,7 +15,3 @@ You need to restart the network manager service, by doing:
 sudo systemctl restart NetworkManager
 ```
 This will temporarily disconnect you from all network devices but will connect again with (hopefully) all devices working again
-
-
-
-#commands/nmcli #commands/systemctl

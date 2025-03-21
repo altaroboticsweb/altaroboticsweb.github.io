@@ -1,7 +1,8 @@
----
+<!-- ---
 title: "Resize LVM"
 parent: Linux
----
+--- -->
+# THIS IS NOT COMPLETE
 ___
 ## How to resize volumes with LVM
 

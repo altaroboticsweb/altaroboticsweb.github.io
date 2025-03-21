@@ -2,6 +2,9 @@
 title: "Installing hyprland commands"
 parent: Linux
 ---
+# Installing hyprland commands
+___
+## Not working, might delete later
 `pacman -Sy archinstall archlinux-keyring
 `shutdown -h now
 
@@ -25,6 +28,3 @@ Open terminal (named Konsole)
 ### Desktop environment add-ons:
 Mechabar
 
-
-
-#hyprland
