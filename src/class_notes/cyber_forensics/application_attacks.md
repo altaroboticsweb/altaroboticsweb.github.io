@@ -1,3 +1,9 @@
+---
+title: Application Attacks
+parent: Cyberforensics
+grand_parent: Notes
+---
+
 Cybersecurity Forensics Lesson 2.4.11 and 2.4.12
 ___
 ## Application Attacks Part 1

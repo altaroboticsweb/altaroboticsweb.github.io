@@ -1,3 +1,8 @@
+---
+title: OS & Monitoring
+parent: CyberForensics 
+grand_parent: Notes
+---
 Cybersecurity Forensics Lesson 4.5.2
 ___
 ### Operating System Security

@@ -1,7 +1,6 @@
 ---
 title: Threat Actors
 parent: CyberForensics 
-layout: minimal
 grand_parent: Notes
 ---
 Cybersecurity Forensics Lesson 2.1.1

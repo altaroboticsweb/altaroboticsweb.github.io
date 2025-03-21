@@ -1,7 +1,7 @@
 ---
 title: Dictionary Attacks
-parent: CyberForensics 
-layout: minimal
+parent: Brute Force Attacks
+ancestor: Notes
 grand_parent: Notes
 ---
 Cybersecurity Forensics Lesson 2.4.14

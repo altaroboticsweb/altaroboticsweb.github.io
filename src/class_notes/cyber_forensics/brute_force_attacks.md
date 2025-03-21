@@ -1,7 +1,6 @@
 ---
-title: Dictionary Attacks
+title: Brute Force Attacks 
 parent: CyberForensics 
-layout: minimal
 grand_parent: Notes
 back_button: true
 ---

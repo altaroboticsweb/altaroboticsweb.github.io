@@ -1,7 +1,6 @@
 ---
-title: Dictionary Attacks
+title: CIA Triad and AAA
 parent: CyberForensics 
-layout: minimal
 grand_parent: Notes
 ---
 Cybersecurity Forensics Lesson 1.2.1

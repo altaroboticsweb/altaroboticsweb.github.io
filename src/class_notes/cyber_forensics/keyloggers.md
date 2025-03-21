@@ -1,7 +1,6 @@
 ---
 title: Keyloggers
 parent: CyberForensics 
-layout: minimal
 grand_parent: Notes
 ---
 Cybersecurity Forensics Lesson 2.4.6

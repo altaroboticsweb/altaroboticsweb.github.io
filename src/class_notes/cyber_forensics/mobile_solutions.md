@@ -1,3 +1,8 @@
+---
+title: Mobile Solutions
+parent: CyberForensics 
+grand_parent: Notes
+---
 Cybersecurity Forensics Lesson 4.1.3
 ___
 ### Mobile Solutions

@@ -1,3 +1,8 @@
+---
+title: Supply Chain Vulnerabilities
+parent: CyberForensics 
+grand_parent: Notes
+---
 Cybersecurity Forensics Lesson 2.3.4
 ___
 ### Supply Chain Vulnerabilities

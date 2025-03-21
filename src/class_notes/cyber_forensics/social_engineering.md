@@ -1,7 +1,6 @@
 ---
 title: Social Engineering
 parent: CyberForensics 
-layout: minimal
 grand_parent: Notes
 ---
 Cybersecurity Forensics Lesson 2.2.2
