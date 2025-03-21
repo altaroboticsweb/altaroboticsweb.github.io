@@ -1,6 +1,6 @@
 
 ---
-title: "sed command in Linux"
+title: sed command
 parent: Linux
 ---
 ___

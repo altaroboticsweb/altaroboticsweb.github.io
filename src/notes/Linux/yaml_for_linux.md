@@ -1,6 +1,6 @@
 
 ---
-title: "YAML for Linux"
+title: YAML
 parent: Linux
 ---
 ___
