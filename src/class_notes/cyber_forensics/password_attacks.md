@@ -6,15 +6,16 @@ grand_parent: Notes
 Cybersecurity Forensics Lesson 2.4.14
 ___
 ## Looking at the kali password:
-
+Here is a very basic example of a password which is stored in the `/etc/shadow` directory
 `kali:\$y\$j9T$ufXTBpN1QpgwlgqRFmb/B0\$/.y0ybAF4iNQXniErsDWf9QSl2HZH7LnBeRHB4ZiQa9`
 
+Breakdown of above text:
 `username:\$hash number\$salt\$hashed password:`
 
 | Kali has the following data: | |
 | --- | --- |
 | username | kali |
-| Hash Algorithm | \$y\$ or yescrypt   |
+| Hash Algorithm | '\$y\$' (or yescrypt)   |
 | Salt: | ‘j9T$ufXTBpN1QpgwlgqRFmb/B0’   |
 | Hash: | ‘/.y0ybAF4iNQXniErsDWf9QSl2HZH7LnBeRHB4ZiQa9’   |
 | Plaintext password: | ‘kali’ |
