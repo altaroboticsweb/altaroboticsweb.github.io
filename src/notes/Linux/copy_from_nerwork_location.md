@@ -28,4 +28,4 @@ scp pizza2d1@192.168.0.77:/home/pizza2d1/ObbyBackup /home/pizza2d1/
 ```
 Will copy the ObbyBackup file from the NAS home directory to my home directory
 
-<a href="src/notes/Linux/copy_from_nerwork_location.md" download>Markdown file download of this page</a>
+<a href="https://pizza2d1.github.io/src/notes/Linux/copy_from_nerwork_location.md" download>Markdown file download of this page</a>
