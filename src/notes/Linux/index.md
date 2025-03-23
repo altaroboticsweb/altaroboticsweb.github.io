@@ -3,6 +3,7 @@ title: "Linux"
 ---
 # Linux Notes
 ___
+{: .no_toc }
 
 ### [Copy from Network Location](https://pizza2d1.github.io/src/notes/Linux/copy_from_network_location)
 For copying/sending files to the NAS through cli using the `scp` command
@@ -14,7 +15,7 @@ Managing linux file systems with `fdisk` and `fallocate`
 How to use the `dd` command
 ### [inotify events](https://pizza2d1.github.io/src/notes/Linux/inotify_events)
 All `inotify` events and what they mean, used for my custom SIEM on my NAS
-### [Linux command auto-completion](https://pizza2d1.github.io/src/notes/Linux/linux_command_autocompletion)
+### [Linux command auto-completion](https://pizza2d1.github.io/src/notes/Linux/linux_command_auto-completion)
 How to add auto-completion for custom commands, using `/etc/bash_completion.d/` files
 ### [Making a linux logical volume](https://pizza2d1.github.io/src/notes/Linux/making_a_linux_logical_volume)
 How to make a LVM for linux, sort of the same thing as a windows "storage pool"
