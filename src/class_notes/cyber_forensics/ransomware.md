@@ -1,7 +1,7 @@
 ---
 title: Ransomware
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 4.2
 ___

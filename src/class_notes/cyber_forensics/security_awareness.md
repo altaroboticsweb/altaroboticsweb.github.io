@@ -1,7 +1,7 @@
 ---
 title: Security Awareness
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 5.6.2
 ___

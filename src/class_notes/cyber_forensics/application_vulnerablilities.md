@@ -1,7 +1,7 @@
 ---
 title: Application Vulnerabilities
 parent: Cyberforensics
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 2.3.1
 ___

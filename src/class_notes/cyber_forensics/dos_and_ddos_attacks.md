@@ -1,7 +1,7 @@
 ---
 title: DoS and DDoS attacks
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 2.4.8
 ___

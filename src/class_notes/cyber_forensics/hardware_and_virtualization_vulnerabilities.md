@@ -1,7 +1,7 @@
 ---
 title: Hardware and Virtualization
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 2.3.3
 ___

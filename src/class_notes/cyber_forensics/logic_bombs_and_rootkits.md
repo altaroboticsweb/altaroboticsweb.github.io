@@ -1,7 +1,7 @@
 ---
 title: Logic Bombs and Rootkits
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 2.4.6
 ___

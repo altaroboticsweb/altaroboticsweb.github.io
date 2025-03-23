@@ -2,7 +2,7 @@
 title: Dictionary Attacks
 parent: Brute Force Attacks
 ancestor: Notes
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 2.4.14
 ___

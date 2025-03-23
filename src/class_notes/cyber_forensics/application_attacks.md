@@ -1,7 +1,7 @@
 ---
 title: Application Attacks
 parent: Cyberforensics
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 
 Cybersecurity Forensics Lesson 2.4.11 and 2.4.12

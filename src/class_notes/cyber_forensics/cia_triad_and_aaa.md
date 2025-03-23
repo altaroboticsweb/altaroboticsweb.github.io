@@ -1,7 +1,7 @@
 ---
 title: CIA Triad and AAA
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 1.2.1
 ___

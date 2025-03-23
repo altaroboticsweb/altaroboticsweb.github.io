@@ -1,7 +1,7 @@
 ---
 title: Script Utilities and Variables
 parent: Cybersecurity Linux
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 3.1.3
 ___

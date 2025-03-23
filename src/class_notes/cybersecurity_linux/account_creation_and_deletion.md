@@ -1,7 +1,7 @@
 ---
 title: Account Creation and Deletion
 parent: Cybersecurity Linux
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 2.2.1
 ___

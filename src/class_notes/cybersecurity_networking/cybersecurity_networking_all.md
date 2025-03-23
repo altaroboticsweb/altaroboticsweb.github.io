@@ -1,6 +1,7 @@
 ---
 title: "CyberSecurity - Networking ALL"
 parent: Cybersecurity Networking
+grand_parent: Class Notes
 ---
 ___
 ## Vocab:

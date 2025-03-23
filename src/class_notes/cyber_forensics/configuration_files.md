@@ -1,7 +1,7 @@
 ---
 title: Configuration Files
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 1.7.1
 ___

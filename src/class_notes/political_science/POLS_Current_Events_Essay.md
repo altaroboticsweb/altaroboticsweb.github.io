@@ -1,6 +1,7 @@
 ---
 title: "POLS Current Events Essay"
 parent: POLS
+grand_parent: Class Notes
 ---
 Nathan Young
 

@@ -1,5 +1,5 @@
 ---
-title: CyberSecurity - Networking
+title: CyberSecurity Networking
 parent: Class Notes
 has_toc: false
 ---

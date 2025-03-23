@@ -1,7 +1,7 @@
 ---
 title: OS & Monitoring
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 4.5.2
 ___

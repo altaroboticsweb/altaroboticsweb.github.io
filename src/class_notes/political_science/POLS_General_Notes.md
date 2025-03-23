@@ -1,6 +1,7 @@
 ---
 title: "POLS General Notes"
 parent: POLS
+grand_parent: Class Notes
 ---
 ___
 #### Unitarian governments:

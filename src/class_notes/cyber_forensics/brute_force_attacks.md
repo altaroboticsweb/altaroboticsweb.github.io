@@ -1,7 +1,7 @@
 ---
 title: Brute Force Attacks 
 parent: CyberForensics 
-grand_parent: Notes
+grand_parent: Class Notes
 back_button: true
 ---
 Cybersecurity Forensics Lesson 2.4.14
