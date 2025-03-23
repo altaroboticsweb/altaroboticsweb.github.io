@@ -1,6 +1,6 @@
 ---
 title: CyberForensics
-parent: Notes
+parent: Class Notes
 has_toc: false
 ---
 

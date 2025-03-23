@@ -1,6 +1,6 @@
 ---
 title: POLS
-parent: Notes
+parent: Class Notes
 has_toc: false
 ---
 ### [[POLS General Notes|General Notes]]

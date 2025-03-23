@@ -1,7 +1,6 @@
 ---
 title: File Editing
 parent: Cybersecurity Linux
-layout: minimal
 grand_parent: Notes
 ---
 Cybersecurity Linux Lesson 1.2.1
