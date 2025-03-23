@@ -1,5 +1,6 @@
 ---
 title: "Psychology"
+parent: Notes
 has_toc: false
 ---
 ___

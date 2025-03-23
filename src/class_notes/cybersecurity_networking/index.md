@@ -1,5 +1,6 @@
 ---
 title: CyberSecurity - Networking
+parent: Notes
 has_toc: false
 ---
 ___
