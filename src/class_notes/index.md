@@ -12,3 +12,8 @@ has_toc: false
 ### [Political Science]({% link src/class_notes/political_science/index.md %})
 
 ### [Psychology]({% link src/class_notes/psychology/index.md %})
+
+Download all class notes [here][1]
+
+[1]:{{ site.url }}/download/class_notes.tar.gz
+
