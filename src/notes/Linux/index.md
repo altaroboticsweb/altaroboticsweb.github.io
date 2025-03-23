@@ -1,5 +1,6 @@
 ---
 title: "Linux"
+has_toc: false
 ---
 # Linux Notes
 ___
