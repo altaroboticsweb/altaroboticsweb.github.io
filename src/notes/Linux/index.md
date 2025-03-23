@@ -1,5 +1,6 @@
 ---
 title: "Linux"
+parent: Notes
 has_toc: false
 ---
 # Linux Notes
