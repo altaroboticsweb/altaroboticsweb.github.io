@@ -3,8 +3,8 @@ title: "Making a linux logical volume"
 parent: Linux
 ---
 # Making a Linux Logical Volume
-___
 [Source](<https://medium.com/@yhakimi/lvm-how-to-create-and-extend-a-logical-volume-in-linux-9744f27eacfe>)
+___
 # Start:
 Make sure that your disk has a clean partition that you are able to convert into a usable disk, aka allow the LVM (logical volume manager) to use your storage.
 

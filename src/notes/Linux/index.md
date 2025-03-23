@@ -4,7 +4,6 @@ has_toc: false
 ---
 # Linux Notes
 ___
-{: .no_toc }
 
 ### [Copy from Network Location]({% link src/notes/Linux/copy_from_network_location.md %})
 For copying/sending files to the NAS through cli using the `scp` command
