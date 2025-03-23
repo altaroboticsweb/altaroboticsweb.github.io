@@ -1,6 +1,7 @@
 ---
 title: "Copy from Network Location"
 parent: Linux
+grand_parent: Notes
 ---
 
 # Copy from Network Location
