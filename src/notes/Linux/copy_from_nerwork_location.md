@@ -32,5 +32,5 @@ Try and download [here][1]
 
 [1]:{{ site.url }}/download/download_test.md
 
-{% download_link download/download_test.md %}
+<!-- {% download_link download/download_test.md %} -->
 <!-- {% download_link src/notes/Linux/copy_from_nerwork_location.md %} -->
