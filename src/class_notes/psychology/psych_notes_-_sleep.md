@@ -1,3 +1,8 @@
+
+---
+title: "Psych Notes - Sleep"
+parent: Psychology
+---
 ___
 ## Sleep:
 A periodic natural loss of consciousness - as distinct from unconsciousness resulting from a coma, general anesthesia, or hibernation

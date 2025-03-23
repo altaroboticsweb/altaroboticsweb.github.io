@@ -1,3 +1,8 @@
+
+---
+title: "Disorder Research"
+parent: Psychology
+---
 ###### By: Nathan Young, Sully Barkley, Kloey Flower
 
 Psychology 1

@@ -1,3 +1,8 @@
+
+---
+title: "Psych Notes - Sense and Perception"
+parent: Psychology
+---
 ___
 ## Sense:
 The process by which our sensory receptors and nervous system receive and represent stimulus energies from our environment

@@ -1,3 +1,8 @@
+
+---
+title: "Psych Notes - Memory"
+parent: Psychology
+---
 ___
 ## Memory:
 The persistence of learning over time through the encoding, storage, and retrieval, of information

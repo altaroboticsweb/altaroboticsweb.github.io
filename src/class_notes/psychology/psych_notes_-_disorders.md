@@ -1,3 +1,8 @@
+
+---
+title: "Psych Notes - Disorders"
+parent: Psychology
+---
 ___
 #### Psychological disorder
 - A mental condition that changes the way that you think, act and interpret everyday life. Different neuron connections. A harmful dysfunction in which thoughts, feelings, or behaviors are maladaptive, unjustifiable, disturbing and atypical
