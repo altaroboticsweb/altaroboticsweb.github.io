@@ -1,4 +1,3 @@
-
 ---
 title: "Psych Notes - Criminal Forensics"
 parent: Psychology

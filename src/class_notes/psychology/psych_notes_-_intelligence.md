@@ -1,4 +1,3 @@
-
 ---
 title: "Psych Notes - Intelligence"
 parent: Psychology

@@ -1,7 +1,6 @@
-
 ---
-title: "CyberSecurity - Networking"
-parent: Cybersecurity Networking
+title: CyberSecurity - Networking
+has_toc: false
 ---
 ___
 ## [[CyberSecurity - Networking ALL|Complete Notes]]

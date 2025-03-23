@@ -1,4 +1,3 @@
-
 ---
 title: "Psych Notes - Sleep"
 parent: Psychology

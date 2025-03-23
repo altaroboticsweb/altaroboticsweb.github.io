@@ -1,4 +1,3 @@
-
 ---
 title: "Psych Notes - Sense and Perception"
 parent: Psychology

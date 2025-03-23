@@ -1,4 +1,3 @@
-
 ---
 title: "Psych Notes - Disorders"
 parent: Psychology

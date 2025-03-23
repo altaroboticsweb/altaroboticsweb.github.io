@@ -1,4 +1,3 @@
-
 ---
 title: "Disorder Research"
 parent: Psychology

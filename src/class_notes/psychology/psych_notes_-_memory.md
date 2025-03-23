@@ -1,4 +1,3 @@
-
 ---
 title: "Psych Notes - Memory"
 parent: Psychology

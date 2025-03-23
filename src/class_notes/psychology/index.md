@@ -1,6 +1,6 @@
-
 ---
-title: "Psychology Notes"
+title: "Psychology"
+has_toc: false
 ---
 ___
 ## [[Psych Notes - Sleep]]

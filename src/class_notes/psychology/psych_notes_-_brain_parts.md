@@ -1,4 +1,3 @@
-
 ---
 title: "Psych Notes - Brain Parts"
 parent: Psychology
