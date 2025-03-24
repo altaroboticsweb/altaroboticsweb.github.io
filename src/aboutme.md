@@ -2,7 +2,63 @@
 title: About Me
 nav_order: 2
 ---
-My autobiography 
+# About Me
+Sup guy, I'm Nathan
+![Me and the robot]({% link assets/images/me_and_bot.jpg %})
+That's me ^^^ do you like my Stardew Valley hat? I got it for Christmas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- My autobiography 
 
 **Nathan Young**
 ================
@@ -45,4 +101,4 @@ My favorite foods
 *   Chicken Enchilada Casserole
 *   Double patty cheeseburger
 *   Salmon
-*   Chicken Alfredo
+*   Chicken Alfredo -->

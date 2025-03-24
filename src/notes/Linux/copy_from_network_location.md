@@ -28,7 +28,3 @@ Example:
 scp pizza2d1@192.168.0.77:/home/pizza2d1/ObbyBackup /home/pizza2d1/
 ```
 Will copy the ObbyBackup file from the NAS home directory to my home directory
-
-Try and download [here][1]
-
-[1]:{{ site.url }}/download/download_test.md
