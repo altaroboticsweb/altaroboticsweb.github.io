@@ -8,15 +8,15 @@ Sup guy, I'm Nathan
 That's me ^^^ do you like my Stardew Valley hat? I got it for Christmas
 ___
 ## Projects
-- Personal NAS
+- ### Personal NAS
   - A while back my friends and I decided to make a combined server that would be able to hold a couple terabytes of data, including movies, games, and (non-sensitive) back-up data that could be accessed from our home networks.
   - Currently I am still working on making the [custom SIEM](https://github.com/Pizza2d1/SIEMTesting) for it (which is still VERY scrappy) so that I can log the files and folders that are being added to it
   - Future plans: Make it so that there is only access to the network from their home network IP's, and maybe work on a website that can be accessed for easy file downloads and so I can practice securing a web server at a basic level
-- This Website
+- ### This Website
   - I learned that github will host a website for free for you if you provide it with a valid web repository, so I started with a very basic HTML webpage and have since started using the [just-the-docs](https://github.com/just-the-docs/just-the-docs) official configuration website as a template for the current website that you are on right now
   - I'm still adding some of my class notes and notes from when I was programming from my Obsidian files, which will take a while to do manually so I am making a bash script that will allow me to do it automatically (the only time programming will be faster than the actual process)
   - Later on I will work on adding download links to some of my notes so that they can be put straight into another person's Obsidian vault, along with adding more easter eggs for funsies
-- pizzapaper
+- ### pizzapaper
   - A pretty basic wallpaper switching program that I made as a way to start learning bash and how it worked, since I had just barely started to get confortable with linux and wanted to start customizing my laptop so that it would be better.
   - I don't have a lot that I am working on for it right now since it's pretty good for now, the most I would change is adding a proper GUI in the same style as something like [waypaper](https://github.com/anufrievroman/waypaper) (no relation, I didn't know about waypaper before working on this).
   - My future plans for this project is mostly just making it so that it can work on all linux machines, as currently it only working with GNOME dessktop environments, which won't work when I convert to arch (btw)
