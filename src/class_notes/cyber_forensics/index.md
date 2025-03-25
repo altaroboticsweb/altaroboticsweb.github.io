@@ -4,15 +4,18 @@ parent: Class Notes
 has_toc: false
 ---
 
-## Unit 1
-1.2.1:_cia_triad_and_aaa
-1.2.3:_physical_security
-## Unit 2
+## Unit  1
+### 1.7.1:  [Configuration Files]({% link src/class_notes/cyber_forensics/configuration_files.md %})
+### 1.2.1:  [CIA Triad and AAA]({% link src/class_notes/cyber_forensics/cia_triad_and_aaa.md %})
+### 1.2.3:  [Physical Security]({% link src/class_notes/cyber_forensics/physical_security.md %})
+
+## Unit  2
 ### 2.1.1:  [Threat Actors]({% link src/class_notes/cyber_forensics/threat_actors.md %})
 ### 2.2.1:  [Command Attack Surfaces]({% link src/class_notes/cyber_forensics/common_attack_surfaces.md %})
 ### 2.2.2:  [Principles of Social Engineering]({% link src/class_notes/cyber_forensics/social_engineering.md %})
 ### 2.2.3:  [Phishing and Spam]({% link src/class_notes/cyber_forensics/phishing_and_spam.md %})
 ### 2.2.5:  [Watering Hole and Typosquatting]({% link src/class_notes/cyber_forensics/watering_holes_and_typosquatting.md %})
+### 2.3.1:  [Application Vulnerabiliies]({% link src/class_notes/cyber_forensics/application_vulnerabilities.md %})
 ### 2.3.3:  [Hardware and Virtualization Vulnerabilities]({% link src/class_notes/cyber_forensics/hardware_and_virtualization_vulnerabilities.md %})
 ### 2.3.4:  [Supply Chain, Zero Day, and Cryptographic vulnerablilities]({% link src/class_notes/cyber_forensics/supply_chain_zero-day_and_cryptographic_vulnerabilities.md %})
 ### 2.4.11: [Application Attacks]({% link src/class_notes/cyber_forensics/application_attacks.md %})
@@ -25,16 +28,14 @@ has_toc: false
 ### 2.4.5:  [Keyloggers]({% link src/class_notes/cyber_forensics/keyloggers.md %})
 ### 2.4.6:  [Logic Bombs and Rootkits]({% link src/class_notes/cyber_forensics/logic_bombs_and_rootkits.md %})
 ### 2.4.10: [DoS and DDoS Attacks]({% link src/class_notes/cyber_forensics/dos_and_ddos_attacks.md %})
-## Unit 4
+
+## Unit  4
 ### 4.1.3:  [Mobile Solutions]({% link src/class_notes/cyber_forensics/mobile_solutions.md %})
 ### 4.1.4:  [Application Security]({% link src/class_notes/cyber_forensics/application_security.md %})
 ### 4.5.2:  [OS & Monitoring]({% link src/class_notes/cyber_forensics/os_&_monitoring.md %})    
-## Unit 5
-### 5.6.2:  security_awareness
 
-# Chronologically Ordered Notes:
-W.I.P.
+## Unit  5
+### 5.6.2:  [Security Awareness]({% link src/class_notes/cyber_forensics/security_awareness.md %})
 
-<!-- # config files
-# app vuln
-# security awareness -->
+<!-- # Chronologically Ordered Notes:
+W.I.P. -->
