@@ -3,6 +3,7 @@ title: "CyberSecurity Net - Acronyms"
 parent: Cybersecurity Networking
 grand_parent: Class Notes
 ---
+# Networking Acronyms
 ___
 What are **OIDs**?
 Object Identifiers are an identifier mechanism standardized by the International Telecommunications Union and ISO/IED for consistent naming.

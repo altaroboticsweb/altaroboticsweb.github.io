@@ -26,11 +26,11 @@ has_toc: false
 ### 2.4.6:  [Logic Bombs and Rootkits]({% link src/class_notes/cyber_forensics/logic_bombs_and_rootkits.md %})
 ### 2.4.10: [DoS and DDoS Attacks]({% link src/class_notes/cyber_forensics/dos_and_ddos_attacks.md %})
 ## Unit 4
-4.1.3:  [Mobile Solutions]({% link src/class_notes/cyber_forensics/mobile_solutions.md %})
-4.1.4:  [Application Security]({% link src/class_notes/cyber_forensics/application_security.md %})
-4.5.2:  [OS & Monitoring]({% link src/class_notes/cyber_forensics/os_&_monitoring.md %})    
+### 4.1.3:  [Mobile Solutions]({% link src/class_notes/cyber_forensics/mobile_solutions.md %})
+### 4.1.4:  [Application Security]({% link src/class_notes/cyber_forensics/application_security.md %})
+### 4.5.2:  [OS & Monitoring]({% link src/class_notes/cyber_forensics/os_&_monitoring.md %})    
 ## Unit 5
-5.6.2:  security_awareness
+### 5.6.2:  security_awareness
 
 # Chronologically Ordered Notes:
 W.I.P.
