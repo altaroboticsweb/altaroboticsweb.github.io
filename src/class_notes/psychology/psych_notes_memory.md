@@ -38,5 +38,3 @@ A measure of memory in which the person must retrieve information learned earlie
 A measure of memory in which the person identifies items previously learned, as on a multiple-choice test
 ### Relearning:
 Remembering what someone is saying after they explain it
-
-#psychology

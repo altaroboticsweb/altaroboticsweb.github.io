@@ -176,5 +176,3 @@ The intensity of the just noticeable difference depends on how large the stimulu
 		    
 		- We tend to perceive more pain when others seem to be experiencing again
 
-
-#psychology

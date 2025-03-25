@@ -3,26 +3,28 @@ title: "Psych Notes - Disorders"
 parent: Psychology
 ---
 ___
-#### Psychological disorder
+# Disorders
+
+### Psychological disorder
 - A mental condition that changes the way that you think, act and interpret everyday life. Different neuron connections. A harmful dysfunction in which thoughts, feelings, or behaviors are maladaptive, unjustifiable, disturbing and atypical
 
 ## MUDA acronym
 In order for a condition to be considered a disorder, they have to follow all of the four criterium
 
-### Maladaptive:
+### Maladaptive
 - Destructive to oneself or others
 - Maladaptive behaviors are sometimes - not always - an exaggeration of normal acceptable behavior
 
-### Unjustifiable:
+### Unjustifiable
 - Without a rational basis
 - Sometimes these practices are accepted in certain contexts, times, traumatic experiences, personal backgrounds, and cultural expectations
 - Cell phones today are weird and seem without reason to older generations, but are completely normal for all newer generations.
 
-### Disturbing:
+### Disturbing
 - Troublesome to other people
 - Bringing people around to things that you enjoy but they would rather not do kinda counts
 
-### Atypical:
+### Atypical
 - So different that it violates a norm
 - Different (not like other people’s behaviors)
 - Violates a norm - an unofficial rule for accepted and expected behavior in a particular culture  
@@ -99,17 +101,19 @@ This medical model is still alive today, and focuses almost exclusively on natur
 
 ### Bio-Psycho-Social model
 
-#### Bio
+#### **Bio**
 - Caused by genes, brain structure, and chemistry
-#### Psycho
+
+#### **Psycho**
 - Stress, trauma, helplessness, mood-related perceptions and memories
-#### Social
+
+#### **Social**
 - Roles, expectations, definitions of normality and disorder
 
   
 
 ### Anxiety Disorder
-a vague feeling of apprehension and nervousness
+A vague feeling of apprehension and nervousness
 
 - Long term worry
     
@@ -133,7 +137,7 @@ Can be found genetically (passed down from parents), and in animals other than h
 ### Mood Disorders
 Disturbances of out emotions, magnifications of out normal reactions
 
-- #### Types:
+#### Types:
 	1. Bipolar Disorder
 	2. Depression
 	3. Mania
@@ -178,12 +182,11 @@ It is not one disorder. It is a family of severe disorders characterized by diso
 
 ### Drug therapies:
 
-#### Medicinal drugs
-#### Electroconvulsive Therapy:
-- Hooking someone to a machine to cause a seizure, hopefully restarting the brain
-- Does not cause major life changing defects
-#### Psychosurgery:
-- Lobotomy - A neurosurgical treatment of a mental disorder that involves severing connections in the brain’s prefrontal cortex
-- Parts of the the frontal lobe would be hammered/removed, makes someone have a pure flat affect
+- Medicinal drugs
+- Electroconvulsive Therapy:
+  - Hooking someone to a machine to cause a seizure, hopefully restarting the brain
+  - Does not cause major life changing defects
+- Psychosurgery:
+  - Lobotomy - A neurosurgical treatment of a mental disorder that involves severing connections in the brain’s prefrontal cortex
+  - Parts of the the frontal lobe would be hammered/removed, makes someone have a pure flat affect
 
-#psychology

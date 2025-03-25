@@ -66,5 +66,3 @@ The experiences you have when you hallucinate in stage 4 sleep; A sequence of im
 - Latent content: The underlying meaning of a dream
 #### Lucid dreams:
 Lucid dreams are when you know that you’re dreaming while you’re asleep. You’re aware that the events flashing through your brain aren't really happening. But that dream feels vivid and real. You may even be able to control how the action unfolds, as if you’re directing a movie in your sleep.
-
-#psychology
