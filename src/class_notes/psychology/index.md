@@ -4,18 +4,18 @@ parent: Class Notes
 has_toc: false
 ---
 ___
-## [[Psych Notes - Sleep]]
+### [Psychology: Sleep]({% link src/class_notes/psychology/psych_notes_sleep.md %})
 
-## [[Psych Notes - Memory]]
+### [Psychology: Memory]({% link src/class_notes/psychology/psych_notes_memory.md %})
 
-## [[Psych Notes - Sense and Perception]]
+### [Psychology: Sense and Perception]({% link src/class_notes/psychology/psych_notes_sense_and_perception.md %})
 
-## [[Psych Notes - Disorders]]
+### [Psychology: Disorders]({% link src/class_notes/psychology/psych_notes_disorders.md %})
 
-## [[Psych Notes - Intelligence]]
+### [Psychology: Intelligence]({% link src/class_notes/psychology/psych_notes_intelligence.md %})
 
-## [[Psych Notes - Criminal Forensics]]
+### [Psychology: Criminal Forensics]({% link src/class_notes/psychology/psych_notes_criminal_forensics.md %})
 
-## [[Psych Notes - Brain Parts]]
-## [[Disorder Research]]
-#psychology
+### [Psychology: Brain Parts]({% link src/class_notes/psychology/psych_notes_brain_parts.md %})
+
+### [Psychology: Disorder Research Document]({% link src/class_notes/psychology/disorder_research.md %})
