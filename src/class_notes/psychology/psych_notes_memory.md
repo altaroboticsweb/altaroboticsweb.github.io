@@ -2,8 +2,10 @@
 title: "Psych Notes - Memory"
 parent: Psychology
 ---
+# Memory
+
 ___
-## Memory:
+## Definition:
 The persistence of learning over time through the encoding, storage, and retrieval, of information
 
 ### Alzheimer’s Disease:

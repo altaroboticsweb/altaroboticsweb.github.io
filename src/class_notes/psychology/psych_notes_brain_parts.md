@@ -3,6 +3,8 @@ title: "Psych Notes - Brain Parts"
 parent: Psychology
 ---
 # Brain Parts
+
+___
 The two parts of the brain are divided into two “hemispheres”, with the right being the creative physical stuff, and the left being the more critical thinking part
 
 **Cerebral Cortex**: Decision making

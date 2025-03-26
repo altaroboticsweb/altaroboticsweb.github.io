@@ -2,8 +2,10 @@
 title: "Psych Notes - Sleep"
 parent: Psychology
 ---
+# Sleep
+
 ___
-## Sleep:
+## Definition:
 A periodic natural loss of consciousness - as distinct from unconsciousness resulting from a coma, general anesthesia, or hibernation
 ### Circadian Rhythm:
 Our biological clock; regular bodily rhythms

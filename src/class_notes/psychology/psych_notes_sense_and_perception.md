@@ -2,6 +2,8 @@
 title: "Psych Notes - Sense and Perception"
 parent: Psychology
 ---
+# Sense and Perception
+
 ___
 ## Sense:
 The process by which our sensory receptors and nervous system receive and represent stimulus energies from our environment
@@ -175,4 +177,3 @@ The intensity of the just noticeable difference depends on how large the stimulu
 		- Not surprisingly, then, our perception of pain varies with out social situation and out cultural traditions
 		    
 		- We tend to perceive more pain when others seem to be experiencing again
-

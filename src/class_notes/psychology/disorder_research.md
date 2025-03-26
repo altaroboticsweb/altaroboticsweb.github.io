@@ -2,7 +2,7 @@
 title: "Disorder Research"
 parent: Psychology
 ---
-###### By: Nathan Young, Sully Barkley, Kloey Flower
+By: Nathan Young, S#### B#####, K#### F###### (names removed for privacy)
 
 Psychology 1
 

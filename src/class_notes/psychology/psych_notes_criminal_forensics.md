@@ -2,6 +2,8 @@
 title: "Psych Notes - Criminal Forensics"
 parent: Psychology
 ---
+# Criminal Forensics
+
 ___
 ## What is the difference between Criminal and Forensic Psychology:
 

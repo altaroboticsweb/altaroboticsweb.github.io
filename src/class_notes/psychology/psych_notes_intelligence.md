@@ -2,6 +2,8 @@
 title: "Psych Notes - Intelligence"
 parent: Psychology
 ---
+# Intelligence
+
 ___
 The ability to learn from experiences, solve problems, ad use knowledge to adapt to new situations
   

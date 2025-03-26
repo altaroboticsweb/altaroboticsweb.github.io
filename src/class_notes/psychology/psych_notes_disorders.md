@@ -2,9 +2,9 @@
 title: "Psych Notes - Disorders"
 parent: Psychology
 ---
-___
 # Disorders
 
+___
 ### Psychological disorder
 - A mental condition that changes the way that you think, act and interpret everyday life. Different neuron connections. A harmful dysfunction in which thoughts, feelings, or behaviors are maladaptive, unjustifiable, disturbing and atypical
 
@@ -189,4 +189,3 @@ It is not one disorder. It is a family of severe disorders characterized by diso
 - Psychosurgery:
   - Lobotomy - A neurosurgical treatment of a mental disorder that involves severing connections in the brain’s prefrontal cortex
   - Parts of the the frontal lobe would be hammered/removed, makes someone have a pure flat affect
-

@@ -4,6 +4,7 @@ parent: Class Notes
 has_toc: false
 ---
 # Psychology
+
 ___
 ### [Psychology: Sleep]({% link src/class_notes/psychology/psych_notes_sleep.md %})
 
