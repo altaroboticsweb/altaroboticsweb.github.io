@@ -4,6 +4,7 @@ parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 1.2.3
+
 ___
 ### Metadata  
 Users will learn how data is cataloged in most Linux  

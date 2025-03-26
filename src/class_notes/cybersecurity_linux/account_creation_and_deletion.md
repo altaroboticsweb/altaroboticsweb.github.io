@@ -4,6 +4,7 @@ parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 2.2.1
+
 ___
 ### Creating User Accounts  
 To create a new user account, we use the command `useradd` followed by the username.  

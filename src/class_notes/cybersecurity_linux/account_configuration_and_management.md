@@ -4,6 +4,7 @@ parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 2.2.2
+
 ___
 ### Account Creation and Configuration
 Creation of a user leads to several actions and configurations to create a secure environment tailored to the user’s needs.  

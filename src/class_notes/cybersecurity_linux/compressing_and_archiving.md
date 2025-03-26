@@ -4,6 +4,7 @@ parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 1.2.2
+
 ___
 ### File Compressing and Archiving  
 • Compressing and archiving are fundamental processes for Linux users  

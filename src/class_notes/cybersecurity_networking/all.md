@@ -4,6 +4,7 @@ parent: Cybersecurity Networking
 grand_parent: Class Notes
 ---
 # Networking Notes
+
 ___
 ## Vocab:
 ###### Multicast:

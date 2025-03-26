@@ -4,6 +4,7 @@ parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 1.1.1
+
 ___
 ## <span style="color:rgb(255, 0, 0)">/boot</span>  (boot)
 -  The /boot (read as root, boot) directory contains all the files required for the system's boot process

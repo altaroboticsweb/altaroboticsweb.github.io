@@ -4,6 +4,7 @@ parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 1.2.5
+
 ___
 Users will learn to navigate and manage the files  
 and directories contained within the Linux  

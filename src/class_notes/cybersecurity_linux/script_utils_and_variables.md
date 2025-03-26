@@ -4,6 +4,7 @@ parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 3.1.3
+
 ___
 ### Common Script Utilities  
 - `awk` scans files for specific patterns and extracts information based on those patterns  

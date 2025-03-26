@@ -4,6 +4,7 @@ parent: Cybersecurity Linux]
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lessons 3.1.1 and 3.1.2
+
 ___
 # <u><span style="color:rgb(0, 176, 80)">Part 1</span></u>
 ### Loops  

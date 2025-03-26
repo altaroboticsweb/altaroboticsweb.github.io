@@ -4,6 +4,7 @@ parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
 Cybersecurity Linux Lesson 1.2.1
+
 ___
 ### Text Editing  
 - Text editing is an important skill when using a Linux system  
