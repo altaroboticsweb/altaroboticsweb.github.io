@@ -3,6 +3,7 @@ title: "inotify events"
 parent: Linux
 ---
 # inotify command events
+
 ___
 ## OPEN
 A watched file or a file within a watched directory was opened.

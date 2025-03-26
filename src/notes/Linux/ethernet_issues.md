@@ -3,6 +3,7 @@ title: "Ethernet issues"
 parent: Linux
 ---
 # Ethernet Issues
+
 ___
 If the ethernet device shows as "unavailable" when using this command:
 

@@ -3,6 +3,7 @@ title: "Flashing drives"
 parent: Linux
 ---
 # Flashing Drives
+
 ___
 ###### Create a compressed image file with a working image file
 

@@ -4,6 +4,7 @@ parent: Linux
 ---
 # Running File Issues on Linux
 sources: [Unix & Linux](<https://unix.stackexchange.com/questions/79702/how-to-test-whether-a-file-uses-crlf-or-lf-without-modifying-it>) and [stackoverflow](<https://stackoverflow.com/questions/1552749/difference-between-cr-lf-lf-and-cr-line-break-types>)
+
 ___
 A while ago I was having issues with my programs not running because they kept having a error that would look like this:
 ```

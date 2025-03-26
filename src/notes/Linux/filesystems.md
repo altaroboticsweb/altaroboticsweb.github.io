@@ -3,6 +3,7 @@ title: "Filesystems"
 parent: Linux
 ---
 # Filesystems
+
 ___
 If you must extract and isolate additional storage from `sda` without the risk of data loss due to shrinking the primary drive which is never advised, then a safer approach would be to use `fallocate` to create a loop device.
 

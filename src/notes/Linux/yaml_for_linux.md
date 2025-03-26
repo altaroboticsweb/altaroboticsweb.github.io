@@ -3,6 +3,7 @@ title: YAML
 parent: Linux
 ---
 # YAML for Linux
+
 ___
 The package that I used to modify .yaml files was the most used and updated called `yq` that can be directly installed by that name with `sudo apt install yq`
 

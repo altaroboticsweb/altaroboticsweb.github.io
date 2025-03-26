@@ -4,6 +4,7 @@ parent: Linux
 ---
 # Linux Auto-completion
 sources: [ask Ubuntu](<https://askubuntu.com/questions/68175/how-to-create-script-with-auto-complete>) (parameters) and [stackoverflow](<https://stackoverflow.com/questions/44441249/how-to-autocomplete-a-bash-commandline-with-file-paths>) (path completion)
+
 ___
 ## Use:
 A way for my custom commands to have their parameters/arguments be auto-completed rather than having to type out the entire word, plus it can be used to show the different options that are available
@@ -32,6 +33,7 @@ Or if you don't want to lose where it is by putting it in that obscure directory
 ```bash
 source /path/to/your/autocomplete.sh
 ```
+
 ___
 Or you can make one automatically with my `command_autocomp_maker.sh` custom command that I made so that I can easily transfer over my commands without there being an annoying bridge of config between them and since they are pretty simple themselves
 ## Complex options + file paths

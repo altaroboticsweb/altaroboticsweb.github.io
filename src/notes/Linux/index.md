@@ -4,6 +4,7 @@ parent: Notes
 has_toc: false
 ---
 # Linux Notes
+
 ___
 
 ### [Copy from Network Location]({% link src/notes/Linux/copy_from_network_location.md %})
