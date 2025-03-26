@@ -3,6 +3,7 @@ title: Application Security
 parent: Cyberforensics
 grand_parent: Class Notes
 ---
+# Application Security
 Cybersecurity Forensics Lesson 4.1.4
 ___
 ### Application Security

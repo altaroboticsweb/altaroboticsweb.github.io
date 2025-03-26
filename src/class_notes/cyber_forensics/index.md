@@ -3,6 +3,7 @@ title: CyberForensics
 parent: Class Notes
 has_toc: false
 ---
+# CyberForensics
 
 ## Unit  1
 ### 1.7.1:  [Configuration Files]({% link src/class_notes/cyber_forensics/configuration_files.md %})
@@ -33,7 +34,7 @@ has_toc: false
 ## Unit  4
 ### 4.1.3:  [Mobile Solutions]({% link src/class_notes/cyber_forensics/mobile_solutions.md %})
 ### 4.1.4:  [Application Security]({% link src/class_notes/cyber_forensics/application_security.md %})
-### 4.5.2:  [OS & Monitoring]({% link src/class_notes/cyber_forensics/os_&_monitoring.md %})    
+### 4.5.2:  [OS and Monitoring]({% link src/class_notes/cyber_forensics/os_and_monitoring.md %})    
 
 ## Unit  5
 ### 5.6.2:  [Security Awareness]({% link src/class_notes/cyber_forensics/security_awareness.md %})

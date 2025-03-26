@@ -3,6 +3,7 @@ title: Supply Chain Vulnerabilities
 parent: CyberForensics 
 grand_parent: Class Notes
 ---
+# Supply Chain Vulnerabilities
 Cybersecurity Forensics Lesson 2.3.4
 ___
 ### Supply Chain Vulnerabilities

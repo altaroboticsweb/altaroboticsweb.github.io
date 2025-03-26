@@ -3,6 +3,7 @@ title: Application Vulnerabilities
 parent: Cyberforensics
 grand_parent: Class Notes
 ---
+# Application Vulnerabilities
 Cybersecurity Forensics Lesson 2.3.1
 ___
 ### Memory Injection

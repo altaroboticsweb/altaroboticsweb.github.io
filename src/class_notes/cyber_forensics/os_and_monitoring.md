@@ -1,10 +1,11 @@
 ---
-title: OS & Monitoring
+title: OS and Monitoring
 parent: CyberForensics 
 grand_parent: Class Notes
 ---
 Cybersecurity Forensics Lesson 4.5.2
 ___
+# OS and Monitoring
 ### Operating System Security
 - Measures and practices implemented to protect the operating system and its components from unauthorized access, attacks, and potential security threats.
 - Involves the implementation of security controls, policies, and mechanisms to ensure confidentiality, integrity, and availability of the OS.

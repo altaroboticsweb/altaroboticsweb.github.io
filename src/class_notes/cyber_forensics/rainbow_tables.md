@@ -3,6 +3,7 @@ title: Rainbow Tables
 parent: CyberForensics 
 grand_parent: Class Notes
 ---
+# Rainbow Tables
 Cybersecurity Forensics Lesson 2.4.14
 ___
 ## What is a Hash?  

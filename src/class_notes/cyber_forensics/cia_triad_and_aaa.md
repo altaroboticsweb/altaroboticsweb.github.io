@@ -3,6 +3,7 @@ title: CIA Triad and AAA
 parent: CyberForensics 
 grand_parent: Class Notes
 ---
+# CIA Triad and AAA
 Cybersecurity Forensics Lesson 1.2.1
 ___
 ### Define the CIA Triad and explain why it is important in information security.

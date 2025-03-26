@@ -4,6 +4,7 @@ parent: CyberForensics
 grand_parent: Class Notes
 back_button: true
 ---
+# Brute Force Attacks
 Cybersecurity Forensics Lesson 2.4.14
 ___
 ## What is a Brute Force Attack?  

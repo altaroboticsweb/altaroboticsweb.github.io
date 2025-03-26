@@ -3,7 +3,7 @@ title: Application Attacks
 parent: Cyberforensics
 grand_parent: Class Notes
 ---
-
+# Application Attacks
 Cybersecurity Forensics Lesson 2.4.11 and 2.4.12
 ___
 ## Application Attacks Part 1

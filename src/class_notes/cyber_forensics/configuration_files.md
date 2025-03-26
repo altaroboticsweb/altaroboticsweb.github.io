@@ -3,6 +3,7 @@ title: Configuration Files
 parent: CyberForensics 
 grand_parent: Class Notes
 ---
+# Configuration Files
 Cybersecurity Linux Lesson 1.7.1
 ___
 ## Updating Configuration Files

@@ -3,6 +3,7 @@ title: Logic Bombs and Rootkits
 parent: CyberForensics 
 grand_parent: Class Notes
 ---
+# Logic Bombs and Rootkits
 Cybersecurity Forensics Lesson 2.4.6
 ___
 ### Logic Bombs  

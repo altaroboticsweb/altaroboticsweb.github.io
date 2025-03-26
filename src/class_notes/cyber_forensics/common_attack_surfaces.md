@@ -3,6 +3,7 @@ title: Common Attack Surfaces
 parent: CyberForensics 
 grand_parent: Class Notes
 ---
+# Command Attack Surfaces
 Cybersecurity Forensics Lesson 2.2.1
 ___
 ### Threat Vectors  
