@@ -3,6 +3,7 @@ title: File Editing
 parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
+# File Editing
 Cybersecurity Linux Lesson 1.2.1
 
 ___

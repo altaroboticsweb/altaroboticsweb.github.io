@@ -3,6 +3,7 @@ title: Account Configuration and Management
 parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
+# Account Creation and Management
 Cybersecurity Linux Lesson 2.2.2
 
 ___

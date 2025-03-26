@@ -3,6 +3,7 @@ title: Metadata
 parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
+# Metadata
 Cybersecurity Linux Lesson 1.2.3
 
 ___

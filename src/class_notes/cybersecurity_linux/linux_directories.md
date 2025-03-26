@@ -3,6 +3,7 @@ title: Linux Directories
 parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
+# Linux Directories
 Cybersecurity Linux Lesson 1.1.1
 
 ___

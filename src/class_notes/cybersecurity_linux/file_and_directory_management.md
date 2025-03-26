@@ -3,6 +3,7 @@ title: File and Directory Management
 parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
+# File Directory Management
 Cybersecurity Linux Lesson 1.2.5
 
 ___

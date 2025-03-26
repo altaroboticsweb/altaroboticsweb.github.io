@@ -3,6 +3,7 @@ title: Compression and Archiving
 parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
+# Compression and Archiving
 Cybersecurity Linux Lesson 1.2.2
 
 ___

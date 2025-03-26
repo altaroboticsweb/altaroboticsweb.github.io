@@ -1,8 +1,9 @@
 ---
 title: Shell Script Elements
-parent: Cybersecurity Linux]
+parent: Cybersecurity Linux
 grand_parent: Class Notes
 ---
+# Shell Script Elements
 Cybersecurity Linux Lessons 3.1.1 and 3.1.2
 
 ___
