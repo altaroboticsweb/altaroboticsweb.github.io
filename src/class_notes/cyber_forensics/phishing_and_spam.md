@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Phishing and Spam
 Cybersecurity Forensics Lesson 2.2.3
+
 ___
 ### Phishing  
 • An attempt to gain sensitive information through fraudulent means such as a link or soliciting a response via email, text, or other messaging  

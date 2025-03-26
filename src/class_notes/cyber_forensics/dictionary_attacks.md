@@ -6,6 +6,7 @@ grand_parent: Class Notes
 ---
 # Dictionary Attacks
 Cybersecurity Forensics Lesson 2.4.14
+
 ___
   
 A dictionary attack is a form of password attack where the attacker uses a pre- determined list of passwords, or dictionary, to attempt to crack a password.

@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # DoS and DDoS Attacks
 Cybersecurity Forensics Lesson 2.4.8
+
 ___
 ### Denial of Service (DoS)  
 - Disrupt the availability of services or information by  

@@ -5,6 +5,7 @@ grand_parents: Class Notes
 ---
 # Physical Security
 Cybersecurity Forensics Lesson 1.2.3
+
 ___
 ### Physical Security Controls
 - Bollards

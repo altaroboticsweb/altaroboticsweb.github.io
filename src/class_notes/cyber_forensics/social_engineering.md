@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Social Engineering
 Cybersecurity Forensics Lesson 2.2.2
+
 ___
 ### Social Engineering  
 • Using social interactions, such as relationships, persuasion, and body language, to gain access to secretive or personal information or persuade someone to perform an action.  

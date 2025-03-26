@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Security Awareness
 Cybersecurity Forensics Lesson 5.6.2
+
 ___
 ### Anomalous Behavior Recognition  
 • The knowledge and ability to recognize unusual behavior that might signal a security threat  

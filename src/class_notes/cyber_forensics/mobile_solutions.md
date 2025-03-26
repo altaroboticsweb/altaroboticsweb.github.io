@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Mobile Solutions
 Cybersecurity Forensics Lesson 4.1.3
+
 ___
 ### Mobile Solutions
 - Technologies and strategies for managing, deploying, and connecting mobile devices.

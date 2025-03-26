@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Supply Chain Vulnerabilities
 Cybersecurity Forensics Lesson 2.3.4
+
 ___
 ### Supply Chain Vulnerabilities
 - Weaknesses or risks associated with products and services supplied by third- parties

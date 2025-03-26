@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Configuration Files
 Cybersecurity Linux Lesson 1.7.1
+
 ___
 ## Updating Configuration Files
 Updating configuration files involves making changes to the settings and parameters that define how a particular software or system operates  

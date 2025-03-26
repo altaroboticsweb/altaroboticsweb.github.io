@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Ransomware
 Cybersecurity Forensics Lesson 4.2
+
 ___
 ### Ransomware  
 - Malware that encrypts, or locks, a victim’s access to files and/or the system and demands a ransom to regain access  

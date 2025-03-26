@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Logic Bombs and Rootkits
 Cybersecurity Forensics Lesson 2.4.6
+
 ___
 ### Logic Bombs  
 - A piece of code that waits for a particular set of conditions to be met, referred to as triggers  

@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Password Attacks
 Cybersecurity Forensics Lesson 2.4.14
+
 ___
 ## Looking at the kali password:
 Here is a very basic example of a password which is stored in the `/etc/shadow` directory

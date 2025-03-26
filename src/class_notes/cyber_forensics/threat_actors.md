@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Threat Actors
 Cybersecurity Forensics Lesson 2.1.1
+
 ___
 ### What are threat actors?
 - Groups of people who pose a threat to the security of software

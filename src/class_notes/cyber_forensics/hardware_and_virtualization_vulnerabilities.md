@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Hardware and Virtualization
 Cybersecurity Forensics Lesson 2.3.3
+
 ___
 ### Hardware
 - Hardware vulnerabilities encompass weaknesses or flaws in the physical components of computer systems that could be exploited by attackers.

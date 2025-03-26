@@ -6,6 +6,7 @@ back_button: true
 ---
 # Brute Force Attacks
 Cybersecurity Forensics Lesson 2.4.14
+
 ___
 ## What is a Brute Force Attack?  
 A brute force attack is a form of password attack where the attack attempts to guess a password by trying many passwords in the attempt to guess the correct password  

@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Watering Hole and Typosquatting Attacks
 Cybersecurity Forensics Lesson 2.2.5
+
 ___
 ## Watering Hole Attacks  
 - Taken from the same behavior observed from animals in the wild do when they return to the same areas for water and nutrition every time  

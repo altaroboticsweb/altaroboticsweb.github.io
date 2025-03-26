@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Application Vulnerabilities
 Cybersecurity Forensics Lesson 2.3.1
+
 ___
 ### Memory Injection
 - Technique used to insert or manipulate code within a running process.

@@ -5,6 +5,7 @@ grand_parent: Class Notes
 ---
 # Trojans, Backdoors, and RATs
 Cybersecurity Forensics Lesson 2.4.3
+
 ___
 ### <span style="color:rgb(255, 0, 0)">Trojans</span>  
 - Software that is downloaded, installed, and seems harmless but does have a malicious intent  
