@@ -25,15 +25,10 @@ git push origin local-name:remote-name
 ```
 
 ## Creating a repository:
-Creates a private repository on [github](<github.com/pizza2d1>)
+Creates a private repository on [github](<github.com/altaroboticsweb>)
 ```bash
 gh repo create SIEMTesting --private
 ```
-You can also make it public with `--public`
-```bash
-git remote add SIEMTesting https://github.com/pizza2d1/SIEMTesting
-```
-
 Will push current directory to the repo called "SIEMTesting" to the "master" branch, regardless of what the current directory is called
 ```
 git push --set-upstream SIEMTesting master
