@@ -1,3 +1,8 @@
+---
+title: Motor types and classes
+parent: Robotics 
+---
+
 ___
 # Motors
 ## NEO brushless motor

@@ -1,3 +1,7 @@
+---
+title: Robotpy Components 
+parent: Programming
+---
 ___
 # Required Parts
 ## robot.py

@@ -1,3 +1,7 @@
+---
+title: Robotics Notes 
+parent: Robotics
+---
 ___
 ## RoboRIO images
 

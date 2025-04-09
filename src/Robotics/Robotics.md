@@ -1,6 +1,5 @@
 ---
 title: Robotics
-parent: Programming
 has_toc: false
 ---
 
