@@ -1,4 +1,11 @@
+---
+title: Robotics
+parent: Programming
+has_toc: false
+---
+
 ___
+
 ### [Github](https://github.com/AltaHighRobotics)
 [![[github.png|150]]](https://github.com/AltaHighRobotics)
 ### [[Robotics Notes]]
