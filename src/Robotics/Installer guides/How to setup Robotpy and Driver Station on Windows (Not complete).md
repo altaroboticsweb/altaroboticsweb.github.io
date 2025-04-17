@@ -7,15 +7,7 @@ Linux Version: [[How to setup Robotpy and Driver Station on Linux]]
 ___
 ## You should only need to follow this guide if you have already tried the robotpy-installer repository in the github
 
-Here is the link to the github: (https://github.com/AltaHighRobotics/RobotpyInstallers)
-Since you are on a windows machine you will run the win-robotpy-installer.py
 
-
-### Robotpy Install
-To install robotpy, you need to first make sure that you have a python**3.12** version, to download that, you can either look it up on Microsoft store or
-
-Enter this [URL](https://www.python.org/ftp/python/3.12.3/python-3.12.3.exe) into your search bar:
-`https://www.python.org/ftp/python/3.12.3/python-3.12.3.exe
 
 This will automatically install the python3.12.3 installer, you will need to run this executable so that your system will register python3 commands
 
