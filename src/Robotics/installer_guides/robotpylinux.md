@@ -4,10 +4,11 @@ parent: Robotics
 ---
 
 Windows Version: [How to setup Robotpy and Driver Station on Windows]({% link src/Robotics/installer_guides/robotpywindows.md %})
+
 ___
 ## You should only need to follow this guide if you have already tried the robotpy-installer repository in the github
 
-Here is the link to the github: (https://github.com/AltaHighRobotics/RobotpyInstallers)
+Here is the link to the github: [link](https://github.com/AltaHighRobotics/RobotpyInstallers)
 Since you are on a linux machine, you will run the linux-robotpy-installer.sh
 ## If those installers did not work, this guide should help you
 
@@ -47,7 +48,7 @@ If you would like to install a working linux version of FRC driver station as we
 To install, go to [this link](https://github.com/Redrield/Conductor) and follow it's instructions, unless if you just wanna run this code:
 
 Installs nodejs and libraries needed for Conductor DS:
-````bash
+```bash
 sudo apt-get install -y nodejs libudev-dev libx11-dev libxi-dev libpango1.0-dev libatk1.0-dev libsoup2.4-dev libgtk-3-dev libwebkit2gtk-4.0-dev
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash

@@ -4,10 +4,11 @@ parent: Robotics
 ---
 
 Linux Version: [How to setup Robotpy and Driver Station on Linux]({% link src/Robotics/installer_guides/robotpylinux.md %})
+
 ___
 ## You should only need to follow this guide if you have already tried the robotpy-installer repository in the github
 
-Here is the link to the github: (https://github.com/AltaHighRobotics/RobotpyInstallers)
+Here is the link to the github: [link](https://github.com/AltaHighRobotics/RobotpyInstallers)
 Since you are on a windows machine you will run the win-robotpy-installer.py
 
 
@@ -22,7 +23,7 @@ This will automatically install the python3.12.3 installer, you will need to run
 Open Command Prompt terminal or your VSCode project terminal
 
 Enter this command into the terminal:
-```Terminal
+```bash
 python3 -m pip install robotpy
 python3 -m pip install robotpy-commands-v2
 python3 -m pip install robotpy[phoenix5]
@@ -37,10 +38,10 @@ Go to your taskbar and search "CMD", this will bring up "command prompt"
 #### OPEN IT AS AN ADMINISTRATOR
 
 Once you've done that, install chocolatey by running:
-````sql
+```sql
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-````
+```
 That will allow us to install python3
-```SQL
+```sql
 choco install -y python3
 ```
