@@ -19,7 +19,7 @@ I hope you enjoy learning about the different things that I have collected here 
 {: .warning }
 > This was made in a very scrappy manner and may have some issues with it. If you see any, please help me and [make a issue notice](https://github.com/Pizza2d1/pizza2d1.github.io/issues/new) so that I can fix it. Thank you!
 
-## Getting started
+## Getting started 
 
 {: .new-title }
 > Quick Note
