@@ -3,6 +3,7 @@ title: Robotics Notes
 parent: Robotics
 ---
 ___
+
 ## RoboRIO images
 
 ###### Create a compressed image file with a working image file
