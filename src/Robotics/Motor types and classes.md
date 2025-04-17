@@ -5,6 +5,7 @@ parent: Robotics
 
 ___
 # Motors
+(Got bored while working on this, will finish later (not really))
 ## NEO brushless motor
 ![[Pasted image 20250313075024.png|100]]
 
