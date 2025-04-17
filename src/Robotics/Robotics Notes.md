@@ -60,7 +60,3 @@ To get back into the virtual environment, you just run the same source command:
 source .env/bin/activate
 ```
 Which you may have to do each time you want to use that specific environment
-
-
-
-#commands/source #commands/dd
